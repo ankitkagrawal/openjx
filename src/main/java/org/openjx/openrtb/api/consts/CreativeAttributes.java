@@ -56,6 +56,6 @@ public class CreativeAttributes {
 	public static final int AUDIO_ON_OFF_BUTTON = 15;
 
 	// 16 Ad can be skipped (e.g., skip button on preroll video)
-	public static final int AD_CAN_BE_SKIPPED = 15;
+	public static final int AD_CAN_BE_SKIPPED = 16;
 
 }
